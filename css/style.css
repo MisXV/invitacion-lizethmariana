@@ -965,10 +965,6 @@ gmpx-store-locator {
 	transition: .5s ease-out all;
 }
 
-.portada.oculta {
-	transform: translateY(-200%);
-}
-
 .portada .header {
 	margin-bottom: 1px;
 	text-transform: uppercase;
